@@ -1,7 +1,7 @@
 body{
     background-color: black;
-    font-style:Cambria;
-    font-family: straight;
+    font-style: italic;
+    font-family: cursive;
 }
 .grid{
     display: grid;
